@@ -20,8 +20,17 @@ Resource: NSAppTransportSecurity - Apple Developer Documentation - https://devel
 
 ## Networking
 
+IPv4 and IPv6 are versions of the Internet Protocol that provide addresses for devices communicating over networks. IPv4 uses 32-bit addresses and supports about 4.3 billion unique addresses, while IPv6 uses 128-bit addresses and provides a vastly larger address space. As more phones, computers, smart devices, and servers connect to the Internet, IPv6 helps meet the growing need for unique addresses. Both versions can operate alongside each other.
+
+Resource: What is My IP Address? - Cloudflare - https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/
 ## Cybersecurity
 
+Prompt injection is an attack in which malicious instructions attempt to make an AI model ignore its intended instructions or perform unintended actions. Direct injection comes from a user’s input, whereas indirect injection is hidden in external content, such as webpages or documents. Defences include treating external content as untrusted, filtering suspicious instructions, and limiting the model’s access to tools and sensitive information. Multiple safeguards are needed because no single defence prevents every attack.
+
+Resource: Prompt Injection (Direct / Indirect) - Microsoft Learn - https://learn.microsoft.com/en-us/security/zero-trust/catalog-ai-attack-techniques/prompt-injection
 ## Data
 
+Anonymization and pseudonymization help reduce the risk of identifying people in datasets, but they have different legal implications. Anonymization makes individuals no longer identifiable through means reasonably likely to be used. Pseudonymization replaces identifying details with alternative values, but a person may still be identified using additional information. Under the GDPR, truly anonymized data is no longer considered personal data, while pseudonymized information that can be linked back to a person remains protected.
+
+Resource: Application of the GDPR - European Commission - https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/application-gdpr_en
 ## Misconception in My Track
