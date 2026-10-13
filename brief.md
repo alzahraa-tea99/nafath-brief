@@ -34,3 +34,8 @@ Anonymization and pseudonymization help reduce the risk of identifying people in
 
 Resource: Application of the GDPR - European Commission - https://commission.europa.eu/law/law-topic/data-protection/information-business-and-organisations/application-gdpr_en
 ## Misconception in My Track
+A common misconception is that IPv6 is simply a newer version of IPv4 that works in exactly the same way. Although both protocols are used to address devices and route data across networks, IPv6 introduces a much larger address space and changes in how addresses are represented and networks operate. Another misconception is that IPv6 automatically replaces IPv4 everywhere. In practice, both protocols can coexist, and organisations may need to support both during the transition.
+
+Resource: IPv6 - Google - https://www.google.com/intl/en/ipv6/
+## Open Question
+How can organisations transition from IPv4 to IPv6 while maintaining reliable communication with devices and services that still depend on IPv4?
